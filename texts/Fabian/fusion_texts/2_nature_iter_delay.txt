@@ -1,0 +1,47 @@
+ITER delay: what it means for nuclear fusion
+
+The world’s flagship project to prove the viability of fusion energy has announced a four-year delay to its major experiments, pushing them back to 2039, at a cost of more than US$5 billion. The ITER experiment, which is sponsored by governments around the globe, now looks unlikely to be the first facility of its kind to achieve the milestone known as net gain — the creation of more energy from a reaction than is directly put into it. But physicists say that the project remains essential to building the foundations of a future fusion industry.
+
+“The delay sounds dramatic, but within the physics communities I don’t think it’s going to have too much of an impact,” says Rachael McDermott, a plasma physicist at the Max Planck Institute for Plasma Physics in Garching, Germany. “ITER is still going to be extremely relevant and extremely important, no matter when it comes.”
+
+Convincing funders of that could prove challenging. The project, which began construction near Saint-Paul-Lez-Durance in France in 2010, originally aimed to start up by 2016 and perform the first experiments validating fusion power in 2020. Including contributions of goods and services, funders have already stumped up around $22 billion for the project. Now private fusion firms say they expect to reach ITER’s goals before the public experiment is even switched on.
+
+Part of ITER’s value lies in the project’s potential to share its experiences with private firms. One silver lining of the delay might be that it prompts ITER to engage more with industry, says Melanie Windridge, a plasma physicist and the chief executive of Fusion Energy Insights, a company in London that tracks developments in fusion energy. “It’s kind of forcing ITER to say, we can’t hold on to all this knowledge until the end of the project, because there are private companies coming up that need this now,” she says.
+
+ITER also has an important role in creating supply chains and fusion industries in its member countries, she adds. “It shouldn’t be seen as us and them,” she says. “Everyone is aiming for the same goals.”
+
+Viable energy source
+
+Fusion experiments such as ITER aim to harness the phenomenon that powers the Sun, whose energy comes from the fusion of hydrogen atoms. Replicating this process on Earth could provide an almost inexhaustible source of clean energy, but it is challenging to create the conditions for fusion and to harvest its output.
+
+In 2022, scientists at the US National Ignition Facility in Livermore, California, created a ‘burning plasma’, in which fusion was sustained by heat from the reaction rather than external sources. In doing so, it became the first to achieve net gain, creating more energy from fusion than was used to initiate the reaction. The facility did this using lasers, a different technique from ITER’s. But no one has yet achieved one of ITER’s main goals — creating a long-lived, burning plasma that delivers ten times as much heat as is directly put in — widely seen as a demonstration that fusion can become a viable energy source.
+
+Delays to the project — a collaboration between China, the European Union, India, Japan, Russia, South Korea and the United States — have been no secret. Over the decades, it has been plagued by a string of hold ups, cost overruns and management issues. In 2014, the project’s outgoing director-general, Osamu Motojima, told Nature that ITER would not survive if its start-up date slipped to even 2025, let alone 2034.
+
+The COVID-19 pandemic hampered collaboration, and corroding parts and inconsistencies between components have necessitated considerable repairs to equipment. “I don’t think anybody expected it all to go together perfectly, but I’m not sure we anticipated the inconsistencies,” says McDermott.
+
+Fast track to research
+
+ITER’s current director-general, Pietro Barabaschi, who was appointed in 2022, presented details of the updated timeline at a meeting of the project’s decision-making council on 20 June and briefed journalists on 3 July. Barabaschi painted the delay as a chance to rejig ITER’s plans in light of recent developments in fusion energy. The project’s initial switch-on will be pushed back by nine years, from 2025 to 2034. But the plan is now to skip a “rather symbolic” initial phase and get “as fast as possible to real research”, he said.
+
+This means using a more complete machine from the start, with ITER’s ‘tokamak’ — which uses magnets to squeeze super-heated plasmas of hydrogen isotopes into a doughnut shape — reaching full strength in 2036, just three years behind the previous schedule. Full operation of the reactor has been delayed by four years, from 2035 to 2039, when it will use the heavy forms of hydrogen, deuterium and radioactive tritium, as fuel. The new plans include using a new material — tungsten — for the fusion-facing wall, because it erodes less readily than the beryllium originally planned.
+
+But the revised schedule will cost around an extra €5 billion (US$5.4 billion), funding that is yet to be confirmed by member states. Asked about how funders are likely to react, Barabaschi said, “We will have to wait and see.” He added, “My personal impression is that there is still very strong support from the members on this project.”
+
+The United States, at least, will probably be able to honour its obligations to ITER, thanks to the Department of Energy adding a 50% contingency to its budget in 2018, says Carlos Paz-Soldan, a plasma physicist at Columbia University in New York.
+
+Private push
+
+Private fusion efforts are now likely to achieve many of the technical milestones ITER was intended to reach first, thanks to investment and advances in physics and materials science, says Brandon Sorbom, a researcher in superconducting magnets and co-founder of Commonwealth Fusion Systems (CFS), a spin-off firm that emerged from the Massachusetts Institute of Technology (MIT) in Cambridge.
+
+Private firms, which drew $1.4 billion in investment worldwide in 2023, are bullish about their plans. In a 2023 survey, 65% of companies predicted that a fusion plant will be delivering electricity to the grid by 2035. But Barabaschi is sceptical about this. Even if the viability of fusion was proved today, “I don’t believe we would be in a position to have it commercially deployed by 2040”, he said. “There is a big gap between having, say, a process proven and then to deploy it and make it commercially viable.”
+
+McDermott thinks that the SPARC reactor — a compact version of the tokamak technology being built by MIT and CFS in Devens, Massachusetts — is likely to be the project that beats ITER to net gain. But fusion scientists also argue that ITER, as an experiment, is designed to do things that commercial firms are not. Many facets of fusion physics depend on size, and ITER’s massive dimensions make it a unique test bed for plant-scale physics, McDermott says. ITER will also provide physicists’ first chance to study how large numbers of fast-moving helium nuclei, produced by fusion reactions, interact over long timescales to create a burning plasma.
+
+Future problems
+
+ITER’s research also aims to solve problems that fusion power plants will one day face, but that many private firms are not yet taking seriously enough, says McDermott. These include testing ways to use the neutrons that emerge from fusion to ‘breed’ more tritium fuel, a scarce resource, and studying how materials get damaged in the harsh conditions inside the reactor. Eventually, the aim is for ITER to create ten times more power during fusion than goes into heating the plasma, but there is no plan for ITER to use this power to generate electricity, and calculations for net gain include only direct heat, not other sources of energy that go into the experiment.
+
+Windridge says that ITER is becoming increasingly open to sharing the knowledge gained from publicly funded research with companies. The project’s first public–private workshop in May was busier than organizers had anticipated. “That’s a testament to how important the work of ITER has been,” she says.
+
+If a private company achieved a sustained burning plasma at a fraction of ITER’s size, cost and complexity, that could change funders’ dedication to ITER, says Paz-Soldan. “I do think the value proposition for ITER would require re-evaluation if this were to occur,” he says. “But I do not think now is the appropriate time to have this conversation.”

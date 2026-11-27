@@ -1,0 +1,63 @@
+Nuclear-fusion lab achieves 'ignition': what does it mean?
+
+Scientists at the world’s largest nuclear-fusion facility have for the first time achieved the phenomenon known as ignition — creating a nuclear reaction that generates more energy than it consumes. News of the breakthrough at the US National Ignition Facility (NIF), made on 5 December and announced today by US President Joe Biden’s administration, has excited the global fusion-research community. That research aims to harness nuclear fusion — the phenomenon that powers the Sun — to provide a source of near-limitless clean energy on Earth. Researchers caution that, despite this latest success, a long path remains to achieving that goal.
+
+“It’s an incredible accomplishment,” says Mark Herrmann, the deputy programme director for fundamental weapons physics at Lawrence Livermore National Laboratory in California, which houses the fusion laboratory. The landmark experiment follows years of work by multiple teams on everything from lasers and optics to targets and computer models, Herrmann says. “That is of course what we are celebrating.”
+
+A flagship experimental facility of the US Department of Energy’s nuclear-weapons programme, designed to study thermonuclear explosions, NIF originally aimed to achieve ignition by 2012 and has faced criticism for delays and cost overruns. In August 2021, NIF scientists announced that they had used their high-powered laser device to achieve a record reaction that crossed a key threshold in achieving ignition, but efforts to replicate that experiment failed. Ultimately, scientists scrapped efforts to replicate that shot, and rethought the experimental design — a choice that paid off last week.
+
+“There were a lot of people who didn’t think it was possible, but I and others who kept the faith feel somewhat vindicated,” says Michael Campbell, former director of the laser energetics laboratory at the University of Rochester in New York and an early proponent of NIF while at Lawrence Livermore lab. “I’m having a cosmo to celebrate.”
+
+Nature looks at NIF’s latest experiment and what it means for fusion science.
+
+What did NIF achieve?
+
+The facility used its set of 192 lasers to deliver 2.05 megajoules of energy onto a pea-sized gold cylinder containing a frozen pellet of the hydrogen isotopes deuterium and tritium. The laser’s pulse of energy caused the capsule to collapse, reaching temperatures only seen in stars and thermonuclear weapons, and the hydrogen isotopes fused into helium, releasing additional energy and creating a cascade of fusion reactions. The laboratory’s analysis suggests that the reaction released some 3.15 MJ of energy — roughly 54% more than went into the reaction, and more than double the previous record of 1.3 MJ.
+
+“Fusion research has been going on since the early 1950s, and this is the first time in the laboratory that fusion has ever produced more energy than it consumed,” says Campbell.
+
+However, although the fusion reactions produced more than 3 MJ of energy — more than was delivered to the target — NIF’s lasers consumed 322 MJ of energy in the process. Still, the experiment qualifies as ignition, a benchmark criterion for fusion reactions.
+
+“It’s a big milestone, but NIF is not a fusion-energy device,” says David Hammer, a nuclear-energy engineer at Cornell University in Ithaca, New York.
+
+Herrmann acknowledges as much, saying that there are many steps on the path to laser fusion energy. “NIF was not designed to be efficient,” he says. “It was designed to be the biggest laser we could possibly build to give us the data we need for the [nuclear] stockpile research programme.”
+
+NIF scientists made multiple changes before the latest laser shot, based in part on analysis and computer modelling of previous experiments. In addition to boosting the laser’s power by around 8%, scientists reduced the number of imperfections in the target and adjusted how they delivered the laser energy to create a more spherical implosion. Operating at the cusp of fusion ignition, the scientists knew that “little changes can make a big difference”, Herrmann says.
+
+Why are these results significant?
+
+On one level, it’s about proving what is possible, and many scientists have hailed the result as a milestone in fusion science. But the results carry particular significance at NIF: the facility was designed to help nuclear-weapons scientists study the intense heat and pressures inside explosions, and that is possible only if the laboratory produces high-yield fusion reactions.
+
+It took more than a decade, “but they can be commended for reaching their goal”, says Stephen Bodner, a physicist who formerly headed the laser plasma branch of the US Naval Research Laboratory in Washington DC. Bodner says the big question now is what the Department of Energy will do next: double down on weapons research at the NIF or pivot to a laser programme geared towards fusion-energy research.
+
+What does this mean for fusion energy?
+
+The latest results have already renewed buzz about a future powered by clean fusion energy, but experts warn that there is a long road ahead.
+
+NIF was not designed with commercial fusion energy in mind — and many researchers doubt that laser-driven fusion will be the approach that ultimately yields fusion energy. Nevertheless, Campbell thinks that its latest success could boost confidence in the promise of laser fusion power and spur a programme focused on energy applications. “This is absolutely necessary to have the credibility to sell an energy programme,” he says.
+
+Lawrence Livermore National Laboratory director Kim Budil described the achievement as a proof of concept. “I don’t want to give you a sense that we’re going to plug the NIF into the grid: that is definitely not how this works,” she said during a press conference in Washington DC. “But this is the fundamental building block of an inertial confinement fusion power scheme.”
+
+There are many other experiments worldwide that are trying to achieve fusion for energy applications using different approaches. But engineering challenges remain, including the design and construction of plants that extract the heat produced by the fusion and use it to generate significant amounts of energy to be turned into usable electricity.
+
+“Although positive news, this result is still a long way from the actual energy gain required for the production of electricity,” said Tony Roulstone, a nuclear-energy researcher at the University of Cambridge, UK, in a statement to the Science Media Centre in London.
+
+Still, “the NIF experiments focused on fusion energy absolutely are valuable on the path to commercial fusion power”, says Anne White, a plasma physicist at the Massachusetts Institute of Technology in Cambridge.
+
+What are the next major milestones in fusion?
+
+To demonstrate that the type of fusion studied at NIF can be a viable way of producing energy, the efficiency of the yield — the energy released compared to the energy that goes into producing the laser pulses — needs to grow by at least two orders of magnitude.
+
+Researchers will also need to dramatically increase the rate at which the laser’s pulses can be produced and how quickly they can clear the target chamber to prepare for another burn, says Tim Luce, head of science and operation at the international nuclear-fusion reactor ITER, which is under construction in St-Paul-lès-Durance, France.
+
+“Sufficient fusion-energy-producing events at repeated performance would be a major milestone of interest,” says White.
+
+The US$22-billion ITER project — a collaboration between China, the European Union, the United Kingdom, India, Japan, South Korea, Russia and the United States — aims to achieve self-sustaining fusion, meaning that the energy from fusion produces more fusion, through a different technique from NIF’s ‘inertial confinement’ approach. ITER will keep a plasma of deuterium and tritium confined in a doughnut-shaped vacuum chamber, known as a tokamak, and heat it up until the nuclei fuse. Once the reactor starts working towards fusion, currently planned for 2035, it will aim to reach ‘burning’ stage, “where the self-heating power is the dominant source of heating”, Luce explains.
+
+What does it mean for other fusion experiments?
+
+NIF and ITER use only two of many fusion-technology concepts being pursued worldwide. The approaches include the magnetic confinement of plasma, using tokamaks and devices called stellarators — inertial confinement, used by NIF, and a hybrid.
+
+The technology required to generate electricity from fusion is largely independent of the concept, says White, and this latest milestone won’t necessarily lead researchers to abandon or consolidate their concepts.
+
+The engineering challenges faced by NIF are different from those at ITER and other facilities. But the symbolic achievement could have widespread effects. “A result like this will bring increased interest in the progress of all types of fusion, so it should have a positive impact on fusion research in general,” says Luce.
