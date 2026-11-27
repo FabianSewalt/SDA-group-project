@@ -1,0 +1,28 @@
+Dark-matter hunt fails to find the elusive particles
+
+Physicists begin to embrace alternative explanations for the missing material.
+Scientists working on the XENON1T experiment are searching for signs of dark matter.
+
+Physicists are growing ever more frustrated in their hunt for dark matter — the massive but hard-to-detect substance that is thought to comprise 85% of the material Universe. Teams working with the world’s most sensitive dark-matter detectors report that they have failed to find the particles, and that the ongoing drought has challenged theorists’ prevailing views.
+
+The latest results from an experiment called XENON1T at the Gran Sasso National Laboratory in Italy, published on 30 October1, continue a dry spell stretching back 30 years in the quest to nab dark-matter particles. An attempt by a Chinese team to detect the elusive stuff, the results of which were published on the same day2, also came up empty-handed. Ongoing attempts by space-based telescopes, as well as at CERN, the European particle-physics laboratory near Geneva, Switzerland, have also not spotted any hints of dark-matter particles.
+
+The findings have left researchers struggling for answers. “We do not understand how the Universe works at a deeper and more profound level than most of us care to admit,” says Stacy McGaugh, an astrophysicist at Case Western Reserve University in Cleveland, Ohio.
+
+Physicists have widely accepted the existence of dark matter since the 1980s as an explanation for why galaxies remain intact rather than flying apart, which would be expected given the amount of observable mass they contain and how fast they rotate. Researchers surmised that halos of invisible dark matter surround galaxies and stabilize them. Physicists grew more confident when dark-matter models successfully predicted the fluctuations detected in an observable echo of the Big Bang, known as the cosmic microwave background.
+
+These observations became the most dramatic evidence for a proposal in the 1980s that dark matter might be formed of weakly interacting massive particles, known as WIMPs. The existence of such particles fits with how physicists think that the Universe evolved, and with the relative abundance of matter. Moreover, the properties of WIMPs would match those predicted by a branch of particle physics called supersymmetry.
+
+We need to be thinking about other types of dark matter. 
+
+The latest round of results seems to rule out the simplest and most elegant super­symmetry theories, casting doubt on the idea that the still-undetected particles are the missing dark matter. If simple supersymmetry theories are no longer viable, scientists say, any WIMP particle has to interact with matter much more feebly than physicists once thought. “It’s not a wholesale retreat from the WIMP paradigm, but it is definitely a change in emphasis,” says Dan Hooper, a physicist at the Fermi National Accelerator Laboratory in Batavia, Illinois. 
+
+Attitudes are shifting, and physicists are increasingly embracing other possible explanations for dark matter, says David Spergel, a theoretical astrophysicist at Princeton University in New Jersey, who was an early proponent of WIMP models. “These experiments haven’t completely closed the window. However, we also need to be thinking about other types of dark matter and new experiments,” he says. 
+
+Dedicated detectors
+
+It has taken decades to build experiments capable of detecting the minuscule rate at which WIMPs were thought to interact with matter. Only in the past ten years have experiments, carried out at about a dozen laboratories, reached the level of sensitivity needed to detect them. The most sensitive detector in the world is Gran Sasso’s XENON1T, which looks for flashes of light created when dark matter interacts with atoms in its 3.5-tonne tank of extremely pure liquid xenon. But the team reported no dark matter from its first run. Neither was there any signal in data collected over two years during the second iteration of China’s PandaX experiment, based in Jinping in Sichuan province. Hunts in space have also failed to find WIMPs, and hopes are fading that a once-promising γ-ray signal detected by NASA’s Fermi telescope from the centre of the Milky Way was due to dark matter — more-conventional sources seem to explain the observation. There has been only one major report3 of a dark-matter detection, made by the DAMA collaboration at Gran Sasso, but no group has succeeded in replicating that highly controversial result; renewed attempts to match it are under way.
+
+Future generations of detectors based on the same principle as XENON1T are already in the works, and will be needed if physicists are to finally close the window on WIMPs. But the particles’ continuing no-show is making theorists more open-minded and has allowed other theories to gain prominence, says Hooper. Perhaps dark matter consists of exotic axion particles, which are akin to strange, massive photons. Theorists are also looking at whether dark matter might not interact with known particles at all, but exist in a “hidden sector”, he says.
+
+The looming rejection of the WIMP hypothesis is encouraging for the few physicists who claim that dark matter itself is a red herring. “I hope people will become even more open-minded,” says McGaugh, who has studied modified versions of gravity that negate the need for dark matter. However, Hooper stresses that the fading support for WIMPs does not weaken the case for dark matter, which he thinks will eventually be found. “I’m not worried about the never possibility, but it could be very, very difficult,” he says.

@@ -1,0 +1,41 @@
+Flexible simulations model how dark matter collisions may leave their fingerprints on the universe
+
+One galaxy—two worlds: This image shows the same galaxy from one of Martin Rosenlyst Jørgensen's computer simulations. On the left, blue and purple show the dark matter surrounding the galaxy, with deeper purple indicating higher density. Dark matter does not emit light and cannot be observed directly, but researchers can use simulations to calculate how it is distributed around galaxies. On the right is the galaxy's ordinary, visible matter. Red and yellow show gas that can gather and form new stars, while the small, bright spots represent stars. Some very massive stars may eventually become black holes, shown as dark purple spots. At the center is a supermassive black hole that has grown over billions of years in the simulation. The colors have been added artificially to distinguish the different types of matter and show how they are distributed. Credit: Martin Rosenlyst Jørgensen/University of Southern Denmark.
+One galaxy—two worlds: This image shows the same galaxy from one of Martin Rosenlyst Jørgensen's computer simulations. On the left, blue and purple show the dark matter surrounding the galaxy, with deeper purple indicating higher density. Dark matter does not emit light and cannot be observed directly, but researchers can use simulations to calculate how it is distributed around galaxies. On the right is the galaxy's ordinary, visible matter. Red and yellow show gas that can gather and form new stars, while the small, bright spots represent stars. Some very massive stars may eventually become black holes, shown as dark purple spots. At the center is a supermassive black hole that has grown over billions of years in the simulation. The colors have been added artificially to distinguish the different types of matter and show how they are distributed. Credit: Martin Rosenlyst Jørgensen/University of Southern Denmark.
+
+We cannot see or measure dark matter directly. Yet scientists are convinced that it exists and that it accounts for around 85% of all matter in the universe, including the matter that everything here on Earth is made of, from earthworms and mountains to seawater and washing machines.
+
+Subscribe to our newsletter for the latest sci-tech news updates.
+
+A wealth of astronomical observations supports the existence of dark matter, but we cannot see it directly because it neither emits, absorbs nor reflects light. What scientists can do, however, is look for its indirect traces. That is what astroparticle physicist Martin Rosenlyst Jørgensen is working on. He holds a Ph.D. in particle physics from the University of Southern Denmark and is now conducting research at the MIT Kavli Institute for Astrophysics and Space Research, U.S.
+
+"If we can identify the fingerprints that different forms of dark matter leave on galaxies and galaxy clusters, we may be able to uncover which fundamental particles and forces are hiding in the dark sector of the universe," he says.
+A new simulation code
+
+Together with colleagues from the Massachusetts Institute of Technology and Harvard University, he has published a paper in Monthly Notices of the Royal Astronomical Society. In it, the team presents a method that can help predict what such indirect signatures might look like.
+
+Scientists may have finally detected dark matter after 90 years of searching
+
+The researchers have developed a highly flexible and efficient simulation code, making it possible to explore the particle physics of many different forms of dark matter and to incorporate new models more easily, without having to develop simulation methods from scratch each time. The simulation method itself is therefore the key new result, while the search for dark matter's fingerprints is the scientific opportunity it opens up.
+
+"We normally assume that dark matter interacts with other matter almost entirely through gravity. But why should dark matter necessarily be so simple? The visible matter that makes up us, the planets and the stars contains an entire world of different particles and forces. We know that. Perhaps dark matter also has unknown forces of its own that leave a kind of fingerprint on the universe," says Jørgensen.
+
+He believes that dark matter may be able to collide with itself. If it does, such collisions could, over billions of years, alter the way dark matter is distributed in structures such as galaxies. That could potentially give astronomers something to look for: fingerprints. But to know what those fingerprints might look like, physicists first need to simulate the process. That is precisely what Jørgensen and his colleagues are working on.
+
+Their simulation tool can run different dark-matter models across a wide range of astrophysical systems, from small dwarf galaxies and satellite galaxies orbiting larger galaxies to colossal collisions between galaxy clusters.
+
+For part of this work, the research team has been allocated 37 million CPU hours through the American ACCESS supercomputing program. That is equivalent to more than 4,000 years of continuous computing on a single CPU core.
+One theory across vastly different systems
+
+Finding a model that can explain dark matter in one system in the universe, such as a dwarf galaxy, does not necessarily mean success. The model must also be able to explain all the other systems in the universe. Dark matter cannot follow one set of rules in a dwarf galaxy and another in a galaxy cluster.
+
+Dark matter gathers in vast, invisible structures around galaxies and galaxy clusters. These systems have very different densities and velocities, meaning that the same dark-matter model can produce very different effects.
+
+"We are not simply trying to find dark matter's fingerprints in one place in the universe. The same theory has to be able to explain observations across very different systems, from 'small' dwarf galaxies to enormous collisions between galaxy clusters. By combining these tests, we can distinguish much more effectively between different dark-matter theories and potentially rule some of them out," says Jørgensen.
+Matching simulated universes to observations
+
+One of the next challenges will be to connect the enormous volumes of data generated by the simulations with astronomical observations. Jørgensen expects artificial intelligence to become an important tool in this work.
+
+The idea is to train algorithms on simulated universes, allowing them to learn to recognize the structural patterns produced by different models. They could then help determine which models best match observations of the real universe provided by astronomers.
+
+"By bringing particle physicists and astronomers together in this way, we can move from theories about invisible particles to concrete signatures that astronomers can actually look for in the universe," says Jørgensen.
