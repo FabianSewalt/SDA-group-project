@@ -1,0 +1,21 @@
+Draft EU Quantum Act Aims to Build a European Quantum Industry and Favour Local Suppliers
+
+The European Union is preparing a sweeping new law intended to turn the continent's strong quantum research base into a competitive industry, according to a draft of the proposed EU Quantum Act obtained by the specialist news site The Quantum Insider.
+
+The draft sets out a common framework for quantum research, manufacturing and commercialisation across the bloc. It covers not only quantum computers but also quantum communication, sensing and precision measurement, as well as the components, software and skills that support them. Its central aim is to help European scientific excellence translate into successful companies and to reduce the region's dependence on foreign suppliers.
+
+One of the most notable provisions concerns public purchasing. Under the draft, public procurement of quantum products and services, as well as participation in strategic projects, would generally be reserved for companies controlled from within the EU. Firms from international partner countries could still take part if a strategic partnership offers reciprocal access, subject to safeguards for security and intellectual property.
+
+The document also sets ambitious technical targets. Europe would aim for systems with around 100 error-corrected logical qubits by 2030 or shortly afterwards, scaling towards thousands per platform by 2035. Importantly, progress would not be judged on raw qubit numbers alone. Instead, the draft lists measures such as logical error rates, reliability, energy use and performance on real computing tasks, reflecting growing scepticism in the industry about headline qubit counts.
+
+Security is another major theme. For procurement beginning six months after the law takes effect, equipment and systems in designated critical sectors would generally need to be ready for post-quantum cryptography and able to switch encryption methods easily. Member states would have to report on their preparedness regularly, and the European Commission could impose binding migration milestones.
+
+Beyond computing, the proposal outlines a long-term vision for quantum networks. Interoperable city-scale networks would be in place by 2030, longer connections of around 200 kilometres would follow by 2035, and a federated European Quantum Internet could emerge in 2040 or later. The plan also prioritises industrial building blocks such as chip fabrication, cryogenics, lasers and control electronics, with commercially viable quantum foundries targeted between 2030 and 2035.
+
+To support smaller firms, the draft proposes at least one quantum competence centre in every member state, regulatory sandboxes, and an investment service desk to help startups find financing. Access to quantum computing resources would be offered through a shared European platform, largely run by the EuroHPC Joint Undertaking.
+
+However, the draft does not include a dedicated budget. Funding would depend on future EU programmes, including the successor to Horizon Europe and a proposed European Competitiveness Fund, together with national and private investment. This matches earlier comments by Thomas Skordas, a senior official at the Commission's digital directorate, who told a European Parliament event in September that the act is not about budget and should be seen as an enabling framework rather than a regulation.
+
+Member states have been actively shaping the proposal. The Netherlands, home to a significant quantum ecosystem centred on Delft and Amsterdam, published its own priorities in April, while France and Germany jointly called for a focus on procurement, financing and governance.
+
+The draft still contains unfinished sections, and its financing arrangements remain open. The Commission hopes to present the final proposal by the end of 2026, although officials have acknowledged that the timeline could slip into next year. Once presented, it will need approval from both the European Parliament and member governments before becoming law.

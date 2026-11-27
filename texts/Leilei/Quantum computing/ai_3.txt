@@ -1,0 +1,21 @@
+Quantinuum Sets Error-Correction Record, Bringing Reliable Quantum Computers Closer
+
+Quantinuum has reported a new world record in quantum error correction, a result that researchers say brings fault-tolerant quantum computing a step closer to reality.
+
+The company, which builds quantum computers using trapped ions, announced that its Helios machine achieved a logical fidelity of 99.9995 percent. In practical terms, that means just five errors for every million operations. According to Quantinuum, the result is ten times better than its own previous record, set only a month earlier, and around one hundred times better than the best published result on any other type of quantum hardware, previously reported by Google Quantum AI on a superconducting system.
+
+Error correction is widely seen as the single biggest challenge facing the field. Qubits, the basic units of a quantum computer, are extremely sensitive to their surroundings. Tiny vibrations, stray electromagnetic fields or temperature changes can cause them to lose their information, introducing mistakes that quickly multiply in long calculations. To solve this, engineers combine several physical qubits into a single logical qubit, spreading information across them so that errors can be detected and fixed without destroying the computation.
+
+The difficulty is that adding more qubits also adds more opportunities for things to go wrong. For error correction to be worthwhile, the protection must improve faster than the extra noise accumulates. Quantinuum says its latest experiment shows exactly that. As the team increased the so-called code distance, a measure of how strongly the information is protected, the remaining logical errors fell exponentially, shrinking by a factor of about twelve with each step.
+
+The record was achieved using a well-known technique called the colour code. In September, the company had set its earlier record on the same machine using a different method, named Helix. The two approaches illustrate a trade-off that hardware designers must manage. Helix needed about ten physical qubits for each logical qubit, while the colour code used up to 37 but produced lower error rates. Choosing between efficiency and accuracy is likely to shape how future machines are built.
+
+Helios itself contains 98 physical qubits and has achieved two-qubit gate fidelity of more than 99.9 percent, a threshold often described as three nines. The company argues that such high-quality hardware allows it to reach strong error correction with far fewer qubits than rival technologies require.
+
+Quantinuum's chief executive, Rajeeb Hazra, told The Wall Street Journal that the result derisks the industry, arguing that the company now understands how to build good qubits and correct their errors in a scalable way.
+
+The achievement supports the company's roadmap. Quantinuum plans to launch a system called Sol in 2027, aiming for around 100 logical qubits, followed in 2029 by Apollo, which it describes as its first universal fault-tolerant quantum computer. Such a machine could, in principle, run billions of operations without failing.
+
+Some observers caution that laboratory records do not automatically translate into useful applications. Memory experiments, which test how well information is preserved, are only one part of a working computer, which must also perform complex logic operations reliably. Competing firms using superconducting circuits, neutral atoms and photons are also making rapid progress, and the race remains open.
+
+Still, the result adds to a growing sense that error correction is moving from theory into engineering practice. If that trend continues, the long-promised era of reliable quantum computing may arrive sooner than many expected.

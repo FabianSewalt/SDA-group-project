@@ -1,0 +1,19 @@
+US Sets Deadline to Retire Today's Encryption as Quantum Threat Looms
+
+The United States has set a firm timetable for retiring the encryption that protects most of the world's digital communications, as governments and companies prepare for the day when quantum computers may be powerful enough to break it.
+
+The National Institute of Standards and Technology published the final version of its transition plan for post-quantum cryptography on October 27. The document, known as NIST IR 8547, confirms that widely used public-key algorithms such as RSA and elliptic curve cryptography will be deprecated after 2030 and disallowed entirely after 2035. Once those dates pass, federal systems will no longer be permitted to rely on them.
+
+These algorithms are everywhere. They secure online banking, email, software updates, messaging apps and the padlock symbol that appears in web browsers. Their strength rests on mathematical problems, such as factoring very large numbers, that would take conventional computers thousands of years to solve. A sufficiently large quantum computer, however, could in theory solve the same problems in hours or days.
+
+No machine capable of such an attack exists today, and estimates of when one might appear vary widely. Security experts nonetheless warn that the threat has already begun. In what is known as a harvest now, decrypt later strategy, attackers can collect encrypted data today and store it until quantum technology matures enough to unlock it. Medical records, state secrets and financial information that must stay confidential for decades are especially exposed.
+
+The new NIST plan builds on a series of government actions this year. In June, the White House issued an executive order to speed up the migration of federal systems, followed two days later by a memorandum from the Office of Management and Budget instructing agencies to draw up detailed plans. Under these rules, agencies must move their most important systems to quantum-safe methods for exchanging encryption keys by the end of 2030, and to quantum-safe digital signatures by the end of 2031.
+
+The replacements are already available. In August 2024, NIST finalised its first three post-quantum standards, known as ML-KEM, ML-DSA and SLH-DSA, after an evaluation process lasting eight years. The agency later selected a fifth algorithm, HQC, as a backup. Most of the new methods rely on lattice-based or hash-based mathematics, which researchers believe is difficult for both classical and quantum computers to crack.
+
+The private sector is also moving, though unevenly. Microsoft said in July that it would accelerate its own programme and aim to switch critical products and services to post-quantum cryptography by 2029. Yet a recent industry survey by the security company Entrust found that only 38 percent of organisations worldwide are actively transitioning, while 68 percent described managing their existing cryptographic systems as very or extremely difficult.
+
+The scale of the task is a major reason for the delay. Large organisations often do not know exactly where encryption is used across their networks, devices and suppliers. Experts therefore recommend starting with a complete inventory of cryptographic assets and building crypto agility, the ability to swap algorithms without redesigning entire systems.
+
+For many businesses, the deadlines may feel distant. But with migrations of this size typically taking years, specialists argue that the window for preparation is narrower than it appears. The quantum computer that breaks today's encryption may not yet exist, but the race to defend against it is well under way.
